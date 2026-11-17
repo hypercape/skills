@@ -38,9 +38,11 @@ skills/
 
 ## 기여와 유지보수
 
-- 새 스킬과 수정은 모두 Pull Request로 받습니다. 자세한 기준은 [CONTRIBUTING.md](CONTRIBUTING.md)를 봐 주세요.
-- 공개 저장소이므로 비밀값(토큰, 키, 비밀번호)과 회사 내부 정보는 올리지 않습니다.
-- 스킬을 고칠 때는 README의 스킬 목록도 함께 고칩니다.
+- 이 저장소는 하이퍼케이프 내부 인원만 수정합니다. **외부 기여(Pull Request, 이슈)는 받지 않습니다.**
+- 스킬은 누구나 자유롭게 가져다 쓸 수 있습니다. 고쳐 쓰고 싶으면 fork해서 각자 수정하세요(Apache-2.0).
+- 내부 유지보수 방법은 [CONTRIBUTING.md](CONTRIBUTING.md)에 있습니다.
+
+This repository is maintained by Hypercape staff only. We do not accept outside pull requests or issues. You are welcome to use or fork the skills under the Apache-2.0 license.
 
 ## 라이선스
 

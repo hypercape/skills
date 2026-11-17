@@ -1,11 +1,15 @@
-# 기여 안내
+# 유지보수 안내
 
-## 새 스킬 추가와 수정
+이 저장소는 하이퍼케이프 내부 인원만 수정합니다. **외부 기여(Pull Request, 이슈)는 받지 않습니다.** 외부에서는 Pull Request를 열 수 없도록 저장소를 설정했습니다. 스킬을 고쳐 쓰고 싶으면 fork해서 각자 수정하세요(Apache-2.0).
+
+We do not accept outside contributions. Pull requests are limited to Hypercape staff.
+
+## 내부 인원: 스킬 추가와 수정
 
 1. 브랜치를 만들어 `skills/<스킬 이름>/SKILL.md`를 추가하거나 고칩니다.
 2. `SKILL.md` 맨 위에 frontmatter(`name`, `description`)를 둡니다. 폴더 이름과 `name`은 같게, 영문 소문자와 하이픈으로 씁니다.
 3. README의 스킬 목록에 한 줄을 추가하거나 고칩니다.
-4. Pull Request를 엽니다. main에 바로 올리지 않습니다. 머지는 유지보수 담당이 검토한 뒤에 합니다.
+4. Pull Request를 엽니다. main에는 바로 올릴 수 없습니다. 머지는 담당 승인자가 확인한 뒤에 합니다.
 
 ## 올리면 안 되는 것
 
